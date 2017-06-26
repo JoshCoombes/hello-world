@@ -1,3 +1,3 @@
 # hello-world
 First Java Program
-I wantt to create my first readme file and learn about GitHub and Javascipt
+I want to create my first readme file and learn about GitHub and Javascipt
